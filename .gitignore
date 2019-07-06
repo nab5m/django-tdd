@@ -4,3 +4,4 @@ __pycache__
 *.pyc
 secret_settings.py
 .idea
+# 생각해보니 venv를 git에 올리는게 좋을거 같음
